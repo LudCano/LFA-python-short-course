@@ -1,0 +1,11 @@
+Station Name: SAN_CALIXTO  
+DECADE Code : BOLP010584
+WMO Code    : NA  
+WMO Class   : 1
+Latitude    : -16.493944
+Longitude   : -68.134306
+Altitude (m): 3669
+Source of coordinates: VISIT_GOOGLE_EART
+Metadata visit form  : SI
+Metadata file: NO
+Modification date: 2016/11/21
